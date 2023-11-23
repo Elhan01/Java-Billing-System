@@ -1,1 +1,2 @@
 # Java-Billing-System
+ A simply generated database which stores all the details of the activities that are certainly happening in the University related to the payment and accounts section, which includes the students' account. We need to use this in order to have secured payment or billing data of the University and retrieve it whenever it is required. This program or database mainly stores the fee dues of the students, the total amount paid by the students, the advance given by the students, etc.
